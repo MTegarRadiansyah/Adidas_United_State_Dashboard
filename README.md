@@ -7,7 +7,7 @@ Sebuah proyek analisis data *end-to-end* yang mengubah data penjualan mentah Adi
 **[ >> [KLIK DI SINI UNTUK MEMBUKA DASHBOARD INTERAKTIF LOOKER STUDIO](https://lookerstudio.google.com/reporting/bca721cc-c904-479e-b908-b1d1accdd685) << ]**
 
 ### 📸 Screenshot Dashboard Utama (Sales Overview)
-![Sales Overview Dashboard](Sales Overview Dashboard Looker Studio.png).
+![Sales Overview Dashboard](Sales Overview Dashboard Looker Studio.png)
 
 ---
 
